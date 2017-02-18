@@ -1,0 +1,49 @@
+div.container {
+  width: 100%;
+  border: 1px solid black;
+  //background-color: #ada4a5;
+  background-color:#f7e479;
+  
+  //padding:2px;
+}
+a:link{
+  color:blue;
+}
+a:visited{
+  color:red;
+}
+
+body {
+  font-family: Calibri;
+  background-color: #6892d6;
+  padding:2px;
+  
+}
+
+
+h2 {
+  text-align: center;
+}
+
+h1 {
+  background-color: red;
+  border-radius: 20px;
+  border: 9px solid red;
+}
+
+header,
+footer {
+  padding: 1em;
+  color: white;
+  border: 1px solid black;
+  background-color: #053582;
+  clear: left;
+  text-align: center;
+}
+.link1{
+  float: right;
+}
+p.information {
+  text-indent: 30px;
+  padding:5px;
+}
